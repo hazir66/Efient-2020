@@ -38,4 +38,7 @@ s.interactive()
 s.close()
 ```
 
-Run và hồi hộp chờ thôi nèo... Tadaaaaa `efiensctf{ULTRA_MEGA_SUPER_HUGE_VIETLOT_JACKPOT}`
+Run và hồi hộp chờ thôi nèo... Tadaaaaa 
+** FLAG **
+
+`efiensctf{ULTRA_MEGA_SUPER_HUGE_VIETLOT_JACKPOT}`
