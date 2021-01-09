@@ -8,9 +8,9 @@ Challenge này sẽ cung cấp cho các bạn 69đ, bạn có quyền cược s�
 * Nếu thua, bạn sẽ mất 10đ. Nếu bạn đặt dưới 10đ thì chắc chắn sẽ lỗ, vì số tiền mất luôn là 10đ.
 * Khi bạn có đủ số tiền là `696.969.696.969đ` thì bạn sẽ có thể dùng số tiền này mua flag.
 
-## Thấy luật chơi thì bạn thấy là lời rồi đúng hem. Bắt đầu thôi.
+## Thấy luật chơi thì bạn thấy là lời rồi đúng hông. Bắt đầu thôi.
 
-Nhưng đâu phải dễ ăn vậy đúng hem, chúng ta nhìn trong source code sẽ phát hiện như này.
+Nhưng đâu phải dễ ăn vậy, chúng ta nhìn trong source code sẽ phát hiện như này.
 
 ![image](https://user-images.githubusercontent.com/76993858/104086104-64cab180-5287-11eb-9537-c0c4bca8031a.png)
 
