@@ -1,4 +1,5 @@
 **SOLUTION**
+
 hmmm....Bài này lúc đầu mình cũng thấy khá là ngô khoai.
 
 Đầu tiên nó sẽ yêu cầu mình nhập tên với độ dài bằng 10 thông qua hàm:
