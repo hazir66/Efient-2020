@@ -39,6 +39,7 @@ s.close()
 ```
 
 Run và hồi hộp chờ thôi nèo... Tadaaaaa 
-** FLAG **
+
+**FLAG**
 
 `efiensctf{ULTRA_MEGA_SUPER_HUGE_VIETLOT_JACKPOT}`
