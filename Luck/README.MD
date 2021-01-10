@@ -1,25 +1,26 @@
 # Luck
 ## Tết gần đến rồi, BTC cũng hiểu nên ra đề ăn tết sớm nè. 
-### Nhìn tên của đề bài chắc các bạn cũng ngầm hiểu giống mình, đề đang nói đến vấn đề gì rồi đúng hemmmm. :>>
+### Nhìn tên của đề bài chắc các bạn cũng ngầm hiểu giống mình, đề đang nói đến vấn đề gì rồi đúng hônggg. :>>
 
-Quay lại với vấn đề chính nào...
+Quay lại với Luck...
+
 Challenge này sẽ cung cấp cho các bạn 69đ, bạn có quyền cược số tiền thấp hơn hoặc bằng số tiền bạn đang có.
 * Nếu thắng cược, bạn sẽ được số tiền mà bạn đã đặt cược cộng với số tiền đang có.
 * Nếu thua, bạn sẽ mất 10đ. Nếu bạn đặt dưới 10đ thì chắc chắn sẽ lỗ, vì số tiền mất luôn là 10đ.
 * Khi bạn có đủ số tiền là `696.969.696.969đ` thì bạn sẽ có thể dùng số tiền này mua flag.
 
-## Thấy luật chơi thì bạn thấy là lời rồi đúng hông. Bắt đầu thôi.
+## Thấy luật chơi thì bạn thấy là lời rồi. Bắt đầu thôi.
 
-Nhưng đâu phải dễ ăn vậy, chúng ta nhìn trong source code sẽ phát hiện như này.
+Nhìn trong source thì thấy 
 
 ![image](https://user-images.githubusercontent.com/76993858/104086104-64cab180-5287-11eb-9537-c0c4bca8031a.png)
 
 Ấy chà chà... Mình chỉ có 1/10 phần trăm là win thôi nhỉ? mà điều này cũng hem quan trọng lắm... 
-Nếu đã hiểu luật chơi thì mình bắt đầu thôi :>>
+ :>>
  
  # Solution
 
-Vì chúng ta có thể chơi nhiều lượt nên phần trăm may ruổi cũng không quan trọng nữa nhỉ. :3
+Vì chúng ta có thể chơi nhiều lượt nên phần trăm may ruổi cũng không quan trọng nữa nhỉ. Thua keo này mình thua thêm keo nữa có sao đâu :3
 
 Chúng ta sẽ tạo 1 file để exploit bài này như sau:
 * Cược tất cả những gì mình đang có. Được ăn cả ngã mất 10$. (Chơi là phải khô máu mà :>>)
